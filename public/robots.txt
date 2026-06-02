@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://typing-guru-six.vercel.app/sitemap.xml
+Sitemap: https://typingguru.vercel.app/sitemap.xml
