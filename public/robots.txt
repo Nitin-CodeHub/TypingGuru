@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://typeguru.in/sitemap.xml
+Sitemap: https://typing-guru-six.vercel.app/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
