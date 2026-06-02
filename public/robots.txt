@@ -1,9 +1,7 @@
-# https://www.robotstxt.org/robotstxt.html
+# TypeGuru India Robots.txt
+
 User-agent: *
 Allow: /
 
-# Sitemaps
+# Sitemap Location
 Sitemap: https://typing-guru-six.vercel.app/sitemap.xml
-
-# Crawl-delay
-Crawl-delay: 1
